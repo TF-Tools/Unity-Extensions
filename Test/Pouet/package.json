@@ -1,0 +1,19 @@
+{
+    "name": "com.tftools.pouet",
+    "version": "1.0.0",
+    "displayName": "Pouet",
+    "description": "",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+   "keywords": [
+      "TF Tools",
+      "Extensions",
+      "Scripts"
+    ],
+    "author": {
+      "name": "Pouet",
+      "email": "thomasfuentestools@gmail.com",
+      "url": "https://www.unity3d.com"
+    }
+  }

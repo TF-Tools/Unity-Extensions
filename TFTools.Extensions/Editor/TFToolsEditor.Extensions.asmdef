@@ -1,0 +1,18 @@
+{
+    "name": "TFToolsEditor.Extensions",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ea5aa825597f0b34da38223e15cb6281"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

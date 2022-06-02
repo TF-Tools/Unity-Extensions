@@ -1,0 +1,19 @@
+{
+    "name": "com.tftools.test",
+    "version": "1.0.0",
+    "displayName": "Test",
+    "description": "",
+    "documentationUrl": "",
+    "changelogUrl": "",
+    "licensesUrl": "",
+   "keywords": [
+      "TF Tools",
+      "Extensions",
+      "Scripts"
+    ],
+    "author": {
+      "name": "Test",
+      "email": "thomasfuentestools@gmail.com",
+      "url": "https://www.unity3d.com"
+    }
+  }

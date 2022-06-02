@@ -1,0 +1,19 @@
+{
+  "name": "com.tftools.extensions",
+  "version": "1.0.0",
+  "displayName": "TF Tools - Extensions",
+  "type": "library",
+  "documentationUrl": "",
+  "changelogUrl": "",
+  "licensesUrl": "",
+  "keywords": [
+    "TF Tools",
+    "Extensions",
+    "Scripts"
+  ],
+  "author": {
+    "name": "TF Tools",
+    "email": "thomasfuentestools@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
